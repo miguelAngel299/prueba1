@@ -14,7 +14,7 @@ Leyenda: [VO] = voz en off · (Kling EN) = prompt en inglés para generar el cli
 - **Alias:** los enemigos susurran su nombre en la oscuridad: **"la Rana"**.
 - **Traje:** noir. Capa larga negra, armadura sutil. Capucha/máscara con **dos grandes lentes redondos que evocan ojos de rana** (en lugar de orejas de murciélago). **Emblema de rana lila** en el pecho, que brilla tenue. Silueta imponente y encapuchada.
 - **La Rana-Señal:** un haz de luz que proyecta la silueta de una **rana lila en el cielo nocturno** (equivalente a la Bat-Señal). Aparece en P5, P12 y P15.
-- **Arco:** nace en P4 (se pone el símbolo) → temido en P9 → cae con los suyos en P10 → se revela el hombre (Juan) que se levanta en P13 → cierra la leyenda en P15.
+- **Arco:** nace en P4 (se pone el símbolo) → temido en P9 → **NO está la noche de la caída (P10)** → **regresa** y se revela el hombre (Juan) que se levanta del barro en P13 → cierra la leyenda en P15.
 
 ====================================================================
 ## REPARTO — PERSONAJES (cada nombre = un rol en la trama)
@@ -105,9 +105,9 @@ Leyenda: [VO] = voz en off · (Kling EN) = prompt en inglés para generar el cli
 
 ### P10 (0:58–1:03) — EL GOLPE
 [VO] (silencio · latido grave de tambor)
-"Pero la noche siempre cobra su precio. Los que bailaban nos golpearon en el último aliento. Y el silencio nos tragó. A todos por igual."
-(Kling EN) A group of dark figures collapsing to their knees in heavy night rain on wet asphalt, heads down, a cold clock in the background ticking to zero, desaturated blue-black tone, slow motion, tragic noir cinematic. 5s.
-[Golpe COLECTIVO — no señalar a nadie. Samba = "los que bailaban".]
+"Pero la noche siempre cobra su precio. Y esa noche… yo no estaba. El destino golpeó a los míos en el último aliento, y el silencio se los tragó. No estuve para evitarlo."
+(Kling EN) A group of dark hooded figures collapsing to their knees in heavy night rain on wet asphalt, heads down, a cold clock in the background ticking to zero, an empty space at the front where a leader should be, desaturated blue-black tone, slow motion, tragic noir cinematic. 5s.
+[Golpe COLECTIVO — el destino, no señalar a nadie de los presentes. La Rana (héroe) NO estaba esa noche. Samba = "los que bailaban".]
 
 ### P11 (1:03–1:10) — EL LOBO
 [VO] "Entonces salieron los buitres. En la sombra, aullaban. Y el lobo, más fuerte que ninguno, ladraba sobre nuestras cenizas."
@@ -119,7 +119,7 @@ Leyenda: [VO] = voz en off · (Kling EN) = prompt en inglés para generar el cli
 (Kling EN) Storm over a dark city at night, thunder and cold lightning, a broken frog-signal beam flickering weakly in the clouds, a torn purple frog banner whipping violently in the rain on a ruined rooftop, dramatic wide noir shot, black and amber tones. 5s.
 
 ### P13 (1:15–1:21) — NO PUEDES MATAR UNA SOMBRA
-[VO] "Pero se equivocaron en algo. No puedes matar a una sombra. Y bajo la máscara de la rana… seguía en pie un hombre: Juan. Se levantó del barro. Porque solo se dispara… a los reyes."
+[VO] "Pero se equivocaron en algo. No puedes matar a una sombra. Volví del destierro de la noche. Y bajo la máscara de la rana se levantó un hombre: Juan. Del barro me alcé. Porque solo se dispara… a los reyes."
 (Kling EN) Close-up of the caped frog vigilante slowly rising from the mud in the rain, frog-eyed cowl, defiant stare into camera, cold amber light glinting on the round lenses, the purple frog emblem glowing on his chest, water dripping, The Batman rising moment, slow motion. 6s.
 
 ### P14 (1:21–1:26) — EL KARMA

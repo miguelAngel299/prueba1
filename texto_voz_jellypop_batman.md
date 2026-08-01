@@ -39,7 +39,7 @@ La Bóveda nos arrastró al abismo. Al borde del vacío, no nos rompimos. Manzan
 Invictos. Temidos. Ya no era un hombre. Sobre los tejados, bajo la lluvia, me convertí en lo que acecha en la noche. Y en la sombra, empezaron a susurrar mi nombre… la Rana.
 
 **P10 (0:58–1:03)** — [SILENCIO + latido de tambor antes de la frase]
-Pero la noche siempre cobra su precio. Los que bailaban nos golpearon en el último aliento. Y el silencio nos tragó. A todos por igual.
+Pero la noche siempre cobra su precio. Y esa noche… yo no estaba. El destino golpeó a los míos en el último aliento, y el silencio se los tragó. No estuve para evitarlo.
 
 **P11 (1:03–1:10)**
 Entonces salieron los buitres. En la sombra, aullaban. Y el lobo, más fuerte que ninguno, ladraba sobre nuestras cenizas.
@@ -48,7 +48,7 @@ Entonces salieron los buitres. En la sombra, aullaban. Y el lobo, más fuerte qu
 Dicen que caímos. Que nos remataron a degüello.
 
 **P13 (1:15–1:21)**
-Pero se equivocaron en algo. No puedes matar a una sombra. Y bajo la máscara de la rana… seguía en pie un hombre: Juan. Se levantó del barro. Porque solo se dispara… a los reyes.
+Pero se equivocaron en algo. No puedes matar a una sombra. Volví del destierro de la noche. Y bajo la máscara de la rana se levantó un hombre: Juan. Del barro me alcé. Porque solo se dispara… a los reyes.
 
 **P14 (1:21–1:26)**
 Y el karma tiene memoria. El que más ladró… calló. El lobo perdió su última batalla. Y nosotros nos alzamos hasta la cima.
@@ -78,13 +78,13 @@ La Bóveda nos arrastró al abismo. Al borde del vacío, no nos rompimos. Manzan
 
 Invictos. Temidos. Ya no era un hombre. Sobre los tejados, bajo la lluvia, me convertí en lo que acecha en la noche. Y en la sombra, empezaron a susurrar mi nombre… la Rana.
 
-Pero la noche siempre cobra su precio. Los que bailaban nos golpearon en el último aliento. Y el silencio nos tragó. A todos por igual.
+Pero la noche siempre cobra su precio. Y esa noche… yo no estaba. El destino golpeó a los míos en el último aliento, y el silencio se los tragó. No estuve para evitarlo.
 
 Entonces salieron los buitres. En la sombra, aullaban. Y el lobo, más fuerte que ninguno, ladraba sobre nuestras cenizas.
 
 Dicen que caímos. Que nos remataron a degüello.
 
-Pero se equivocaron en algo. No puedes matar a una sombra. Y bajo la máscara de la rana… seguía en pie un hombre: Juan. Se levantó del barro. Porque solo se dispara… a los reyes.
+Pero se equivocaron en algo. No puedes matar a una sombra. Volví del destierro de la noche. Y bajo la máscara de la rana se levantó un hombre: Juan. Del barro me alcé. Porque solo se dispara… a los reyes.
 
 Y el karma tiene memoria. El que más ladró… calló. El lobo perdió su última batalla. Y nosotros nos alzamos hasta la cima.
 
