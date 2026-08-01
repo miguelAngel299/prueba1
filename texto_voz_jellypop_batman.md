@@ -1,8 +1,8 @@
-# 🦇 TEXTO DE VOZ — "BARRY'S DE MÚNCHEN: VENGANZA" (noir / The Batman)
+# 🦇 TEXTO DE VOZ — "BARRY'S DE MÚNCHEN: LA ORDEN DE LA RANA" (metáfora noir / The Batman)
 Listo para pegar en jellypop. Voz grave, susurrada, primera persona (estilo diario de Batman / Robert Pattinson).
 
 **Notas de lectura:**
-- `…` = pausa breve intencionada (déjala, da tensión noir).
+- `…` = pausa breve intencionada (tensión noir, déjala).
 - `[SILENCIO + latido de tambor]` en P10 = NO se locuta, es hueco para el SFX.
 - Registro: hablado bajo, íntimo, contenido, amenazante. Ritmo lento, sin cortes bruscos.
 - Los marcadores (P1, P2…) NO se leen: solo ordenan los clips.
@@ -12,80 +12,80 @@ Listo para pegar en jellypop. Voz grave, susurrada, primera persona (estilo diar
 ====================================================================
 
 **P1 (0:00–0:05)**
-Dicen que la ciudad olvida. Nosotros éramos lo olvidado. Los últimos. Octavos. Polvo bajo las botas de otros.
+Toda ciudad tiene sus olvidados. Nosotros lo éramos. Los últimos. La ceniza al fondo del pozo. Solo uno se negó a olvidar: Kili. Él guardó la llama.
 
 **P2 (0:05–0:10)**
-Pero en la oscuridad… algo empezó a respirar. El hambre.
+Y en lo más hondo de la noche… algo despertó. El hambre. Polvorilla encendió la chispa. Una mecha que ya nadie pudo apagar.
 
 **P3 (0:10–0:17)**
-En Tarazona, bajo la lluvia, unos hombres hicimos una promesa: no volver a arrodillarnos. Jamás.
+Bajo la lluvia hicimos un pacto: no volver a arrodillarnos. Jamás. Míchel trazó el mapa en la oscuridad. Trivi, su sombra, no se apartó de su lado.
 
 **P4 (0:17–0:24)**
-No construimos un equipo. Forjamos una sombra. Guerreros de otras tierras, un solo símbolo en el pecho: la rana lila.
+No reuní a un grupo. Forjé una sombra. Chema guardó las llaves del pacto. Abel fue el primero en jurar. Y de tierras lejanas llegaron los gigantes: Malick y Sekou. Un solo símbolo nos marcó a todos: la rana lila.
 
 **P5 (0:24–0:29)**
-La señal se encendió en las redes. Trescientos la vieron. Trescientos vinieron.
+La señal se encendió en la penumbra. Trescientos la vieron. Trescientos vinieron. Los que no tenían nada que perder. Gaspi, incansable. Corba, que golpea desde la sombra.
 
 **P6 (0:29–0:36)**
-Entonces empezó la cacería. El Cerro, tres a dos. Qué Sofás, dos a uno. Los Tíos Tíos… siete a cero.
+Entonces empezó la cacería. Cayó la colina de los intocables. Cayó la casa de los cómodos. Y los que se creían dueños… cayeron sin que quedara uno en pie. Chicharrito mordía. Juanillo, sangre joven, no temía. Legaño nunca cerró los ojos.
 
 **P7 (0:36–0:44)**
-Cada uno era un arma. Pablo, letal. Ramón, el filo por la izquierda. Diego movía los hilos, Izan ponía el coraje. Y atrás, un muro sin grietas: Isma y Juanan.
+Cada uno era un arma. Pablo, el filo en la penumbra. Ramón, el rayo por la izquierda. Diego movía los hilos como un titiritero. Izan ponía mente y coraje. Y atrás, un muro sin grietas: Isma, que nadie cruzó, y Juanan, que jamás soltó la presa.
 
 **P8 (0:44–0:50)**
-La Bóveda nos llevó al abismo. Tres a dos, en la prórroga. No nos rompimos. Éramos hierro.
+La Bóveda nos arrastró al abismo. Al borde del vacío, no nos rompimos. Manzano cerró la última puerta. Éramos hierro.
 
 **P9 (0:50–0:58)**
-Invictos. Temidos. Ya no éramos un equipo. Éramos lo que acecha en la noche. Éramos… la leyenda.
+Invictos. Temidos. Ya no éramos hombres. Éramos lo que acecha en la noche. Y al frente, Juan. Nuestro capitán. Nuestra leyenda.
 
 **P10 (0:58–1:03)** — [SILENCIO + latido de tambor antes de la frase]
-Pero la noche siempre cobra su precio. En el último segundo, cayó el golpe. Y el silencio nos tragó.
+Pero la noche siempre cobra su precio. Los que bailaban nos golpearon en el último aliento. Y el silencio nos tragó. A todos por igual.
 
 **P11 (1:03–1:10)**
-Entonces salieron los buitres. En las redes, aullaban. El lobo, más fuerte que ninguno, ladraba sobre nuestras cenizas.
+Entonces salieron los buitres. En la sombra, aullaban. Y el lobo, más fuerte que ninguno, ladraba sobre nuestras cenizas.
 
 **P12 (1:10–1:15)**
 Dicen que caímos. Que nos remataron a degüello.
 
 **P13 (1:15–1:21)**
-Pero se equivocaron en algo. No puedes matar a una sombra. Solo se dispara… a los reyes.
+Pero se equivocaron en algo. No puedes matar a una sombra. Juan se levantó del barro. Porque solo se dispara… a los reyes.
 
 **P14 (1:21–1:26)**
-Y el karma tiene memoria. El que más ladró… calló. El lobo perdió su final. Y nosotros nos alzamos en el podio.
+Y el karma tiene memoria. El que más ladró… calló. El lobo perdió su última batalla. Y nosotros nos alzamos hasta la cima.
 
 **P15 (1:26–1:30)**
-Esto no es un final. Es una advertencia. El Barry's de Múnchen no muere: espera, observa y vuelve. Recordad el nombre. Porque… RESURGIREMOS.
+Esto no es un final. Es una advertencia. La orden de la rana lila no muere: espera, observa y vuelve. Recordad el nombre. Porque… RESURGIREMOS.
 
 ====================================================================
 ## VERSIÓN SEGUIDA (una sola toma)
 ====================================================================
 
-Dicen que la ciudad olvida. Nosotros éramos lo olvidado. Los últimos. Octavos. Polvo bajo las botas de otros.
+Toda ciudad tiene sus olvidados. Nosotros lo éramos. Los últimos. La ceniza al fondo del pozo. Solo uno se negó a olvidar: Kili. Él guardó la llama.
 
-Pero en la oscuridad… algo empezó a respirar. El hambre.
+Y en lo más hondo de la noche… algo despertó. El hambre. Polvorilla encendió la chispa. Una mecha que ya nadie pudo apagar.
 
-En Tarazona, bajo la lluvia, unos hombres hicimos una promesa: no volver a arrodillarnos. Jamás.
+Bajo la lluvia hicimos un pacto: no volver a arrodillarnos. Jamás. Míchel trazó el mapa en la oscuridad. Trivi, su sombra, no se apartó de su lado.
 
-No construimos un equipo. Forjamos una sombra. Guerreros de otras tierras, un solo símbolo en el pecho: la rana lila.
+No reuní a un grupo. Forjé una sombra. Chema guardó las llaves del pacto. Abel fue el primero en jurar. Y de tierras lejanas llegaron los gigantes: Malick y Sekou. Un solo símbolo nos marcó a todos: la rana lila.
 
-La señal se encendió en las redes. Trescientos la vieron. Trescientos vinieron.
+La señal se encendió en la penumbra. Trescientos la vieron. Trescientos vinieron. Los que no tenían nada que perder. Gaspi, incansable. Corba, que golpea desde la sombra.
 
-Entonces empezó la cacería. El Cerro, tres a dos. Qué Sofás, dos a uno. Los Tíos Tíos… siete a cero.
+Entonces empezó la cacería. Cayó la colina de los intocables. Cayó la casa de los cómodos. Y los que se creían dueños… cayeron sin que quedara uno en pie. Chicharrito mordía. Juanillo, sangre joven, no temía. Legaño nunca cerró los ojos.
 
-Cada uno era un arma. Pablo, letal. Ramón, el filo por la izquierda. Diego movía los hilos, Izan ponía el coraje. Y atrás, un muro sin grietas: Isma y Juanan.
+Cada uno era un arma. Pablo, el filo en la penumbra. Ramón, el rayo por la izquierda. Diego movía los hilos como un titiritero. Izan ponía mente y coraje. Y atrás, un muro sin grietas: Isma, que nadie cruzó, y Juanan, que jamás soltó la presa.
 
-La Bóveda nos llevó al abismo. Tres a dos, en la prórroga. No nos rompimos. Éramos hierro.
+La Bóveda nos arrastró al abismo. Al borde del vacío, no nos rompimos. Manzano cerró la última puerta. Éramos hierro.
 
-Invictos. Temidos. Ya no éramos un equipo. Éramos lo que acecha en la noche. Éramos… la leyenda.
+Invictos. Temidos. Ya no éramos hombres. Éramos lo que acecha en la noche. Y al frente, Juan. Nuestro capitán. Nuestra leyenda.
 
-Pero la noche siempre cobra su precio. En el último segundo, cayó el golpe. Y el silencio nos tragó.
+Pero la noche siempre cobra su precio. Los que bailaban nos golpearon en el último aliento. Y el silencio nos tragó. A todos por igual.
 
-Entonces salieron los buitres. En las redes, aullaban. El lobo, más fuerte que ninguno, ladraba sobre nuestras cenizas.
+Entonces salieron los buitres. En la sombra, aullaban. Y el lobo, más fuerte que ninguno, ladraba sobre nuestras cenizas.
 
 Dicen que caímos. Que nos remataron a degüello.
 
-Pero se equivocaron en algo. No puedes matar a una sombra. Solo se dispara… a los reyes.
+Pero se equivocaron en algo. No puedes matar a una sombra. Juan se levantó del barro. Porque solo se dispara… a los reyes.
 
-Y el karma tiene memoria. El que más ladró… calló. El lobo perdió su final. Y nosotros nos alzamos en el podio.
+Y el karma tiene memoria. El que más ladró… calló. El lobo perdió su última batalla. Y nosotros nos alzamos hasta la cima.
 
-Esto no es un final. Es una advertencia. El Barry's de Múnchen no muere: espera, observa y vuelve. Recordad el nombre. Porque… RESURGIREMOS.
+Esto no es un final. Es una advertencia. La orden de la rana lila no muere: espera, observa y vuelve. Recordad el nombre. Porque… RESURGIREMOS.
