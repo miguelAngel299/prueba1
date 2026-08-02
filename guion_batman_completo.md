@@ -133,7 +133,9 @@ Leyenda: [VO] = voz en off · (Kling EN) = prompt en inglés para generar el cli
 ====================================================================
 ## NOTAS DE PRODUCCIÓN
 ====================================================================
-- 15 clips · ~90s · Kling 9:16, calidad alta, movimiento medio/lento.
+- **FORMATO: corto largo cinematográfico (~4-6 min).** La VOZ manda el ritmo: cada plano dura lo que dura su locución (P1 real ≈ 24s, no 5s). Los tiempos del guion son solo orientativos.
+- **Vídeo por plano = varios sub-clips.** Como Kling genera clips de ~5-8s, cada plano se cubre con 2-4 sub-clips encadenados (variaciones del mismo prompt/seed, distintos ángulos o cámara lenta) hasta igualar la duración del audio de ese plano. Ej.: P1 (~24s) ≈ 3-4 sub-clips.
+- Montaje dirigido por audio: primero se coloca la voz de cada plano y el vídeo se corta/estira para encajar (voice-driven cut).
 - Estética global: NOIR de Gotham (The Batman 2022), en clave METÁFORA. Sin fútbol explícito en imagen.
 - **HÉROE consistente:** usa foto de referencia fija de "la Rana" (capucha con lentes de rana + emblema lila en el pecho + capa) en P4, P9, P13, P14 y P15. Misma seed para que la figura no cambie entre planos.
 - **La Rana-Señal** (haz con silueta de rana en el cielo): P5 (encendida), P12 (rota/parpadeante), P15 (arde de nuevo).
