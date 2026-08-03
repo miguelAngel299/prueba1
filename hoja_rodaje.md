@@ -5,10 +5,10 @@ Flujo: generar sub-clips en Kling web → descargar (P01a, P01b…) → subir al
 Personajes con diseño fijo: **Héroe (la Rana)** ✅ · **Kili (Guardián de la Llama)** ✅ · Huargos/villanos (pendientes).
 
 ====================================================================
-## P0 — Apertura aérea (cae a la plaza) → enlaza con P1a
-P00 · Image-to-Video con END frame = foto de la torre/plaza (o solo texto).
-> Cinematic opening aerial shot at night over a dark, rain-soaked Spanish gothic town in La Mancha. Begin with a top-down bird's-eye view high above the town: wet rooftops, narrow streets, an old stone church with a tall spire, faint amber street lamps glowing far below, heavy rain, dark storm clouds, volumetric haze. The camera slowly descends like a drone, tilting forward from the bird's-eye view down toward the main plaza, ending on a low wide view of the illuminated church tower and the wet plaza. Moody noir, cold desaturated tones with warm amber accents, high contrast, photorealistic, no people. 9:16.
-- Termina en el encuadre inicial de P1a (corte invisible). Duración 10s.
+## P0 — Aérea de la plaza + caída rápida (transición a P1a)
+P00 · Aérea estable que reconozca la plaza + plunge rápido con motion blur (whip-cut).
+> Cinematic aerial night shot over a dark, rain-soaked Spanish gothic town. Start with a clear, steady high aerial view of the main plaza, clearly showing the old stone church with its tall spire, the fountain and the wet plaza below, amber street lamps glowing, heavy rain and storm clouds — hold steady long enough to recognize the square. Then the camera suddenly plunges straight down very fast toward the church tower, a rapid dive with strong motion blur and speed streaks, ending in a fast blur. Moody noir, cold desaturated tones with warm amber accents, high contrast, photorealistic, no people. 9:16.
+- Duración 5s (≈3s aérea + ≈2s caída). Termina en blur → fundido/whip-cut a P1a en montaje. Generar 2 versiones si se puede.
 
 ## P1 — "Los olvidados / Kili guarda la llama" (~24s → sub-clips)
 VO: "Toda ciudad tiene sus olvidados. Nosotros lo éramos. Los últimos. La ceniza al fondo del pozo. Solo uno se negó a olvidar: Kili. Él guardó la llama… hasta que alguien la empuñó."
