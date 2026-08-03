@@ -38,6 +38,16 @@ The young man slowly strikes a match / raises a small flame; the fire flares and
 ### P2b — La mecha prende / el hambre despierta · Text-to-Video
 Extreme close-up: a spark races along a fuse in the darkness, then an ember swells and flares into a growing flame, embers rising like a swarm, wet reflections, faint rain, slow motion, ominous, cinematic noir, photorealistic. 9:16.
 
+## P3 — "El pacto / Míchel traza el mapa"
+VO: "Bajo la lluvia hicimos un pacto: no volver a arrodillarnos. Jamás. Míchel trazó el mapa en la oscuridad. Trivi, su sombra, no se apartó de su lado."
+Personajes: Míchel (Estratega) y Trivi (Mano Derecha) → siluetas encapuchadas (o cara real vía image-to-image si hay fotos).
+
+### P3a — El pacto bajo la lluvia · Text-to-Video
+A circle of dark hooded figures standing in heavy night rain in a gothic plaza, heads rising in defiance, fists clenched in a solemn vow; low heroic angle, backlit by a single cold lamp, steam and haze, slow motion, cinematic noir, high contrast, photorealistic. 9:16.
+
+### P3b — Míchel traza el mapa, Trivi su sombra · Text-to-Video
+Two hooded figures in a dark room lit by a single warm lamp: one leans over an old map on a wooden table, tracing a route with his finger; the other stands guard in the shadows behind him. Rain against the window, volumetric light, drifting dust, moody noir, high contrast, photorealistic. 9:16.
+
 ## Ajustes / notas de generación
 - Herramientas: **Gemini (Veo)** + **Kling web** (lo que falle menos por plano).
 - Aspecto 9:16 · duración 5-10s según plano · movimiento lento.
