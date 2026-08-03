@@ -21,10 +21,12 @@ Extreme close-up of a small flame cupped in hands, sparks rising, then a slow ti
 Slow camera pulls back into the deep darkness of the alley behind the keeper; far in the shadows, two round glinting eyes of a lurking hooded figure catch a faint lilac light, then fade to black. Ominous, cinematic noir, rain, high contrast. 9:16.
 
 ====================================================================
-## Ajustes Kling web
-- Aspecto 9:16 · calidad 720p · duración 5s.
-- Misma seed para todo el Acto 1 (consistencia).
-- Movimiento medio/lento.
-- Nombrar: P01a, P01b, P01c, P01d.
+## Ajustes / notas de generación
+- Herramientas: **Gemini (Veo)** + **Kling web** (lo que falle menos por plano).
+- Aspecto 9:16 · duración 5-10s según plano · movimiento lento.
+- P1a se generó a 10s (Tarazona en gótico, Image-to-Video desde foto reestilizada).
+- Veo añade audio propio → se silencia en montaje; encima va el VO de jellypop.
+- Nombrar: P01a, P01b, P01c…
+- La marca de agua de Kling/Veo se recorta en el montaje (9:16).
 
 (P2…P15 se añadirán aquí según avancemos.)
