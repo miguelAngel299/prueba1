@@ -54,7 +54,16 @@ Método A (Kling multi-referencia, img1=Míchel, img2=Trivi):
 Cinematic noir war room lit by a single warm lamp. The man from image 1 (Míchel) is a hooded strategist leaning over an old map on a wooden table, dragging his finger along a route while glowing lines ignite on the map. The man from image 2 (Trivi) stands guard in the shadows behind him, watchful. Rain lashing the window, a lightning flash, drifting dust, slow dramatic push-in, epic noir, high contrast, photorealistic. Keep both faces exactly as in the reference images. 9:16.
 Método B (más fiable): generar escena → face-swap Míchel (traza) + Trivi (vigila) → image-to-video.
 
-Notas P3: 10s, movimiento alto. Con 2 caras, si se mezclan usar Método B (swap uno a uno); mantener a cada uno en lados/planos distintos.
+### ⚠️ En Gemini/Veo las 2 caras a la vez NO salen. Solución: planos separados.
+P3b-1 — Míchel traza el mapa (su cara) · Image-to-Video:
+Close cinematic shot in a dark noir war room lit by a single warm lamp: a hooded strategist leans over an old map, dragging his finger along a route as glowing lines ignite on it; rain on the window, a lightning flash, slow push-in, epic noir, high contrast, photorealistic. 9:16.
+P3b-2 — Trivi vigila desde la sombra (su cara) · Image-to-Video:
+Close cinematic shot in the same dark war room: a loyal guardian stands in the shadows, arms crossed, watchful, lamp light flickering on his face, rain and a lightning flash behind him, slow push-in, epic noir, high contrast, photorealistic. 9:16.
+→ Intercalar en CapCut. (Alternativa: componer 1 imagen con Gemini/Nano Banana usando las 2 fotos, luego Veo image-to-video.)
+
+REGLA GENERAL: varias caras reales en una escena → un plano por persona (más fiable) e intercalar en montaje.
+
+Notas P3: 10s, movimiento alto.
 
 ## P4 — "Nace la Rana / se forja la orden" (ÉPICA, más movimiento)
 VO: "No reuní a un grupo. Forjé una sombra… y me puse a su frente. Grabé el símbolo en mi pecho: la rana lila. Y la ciudad aprendió a susurrar mi nombre. A mi lado, Chema guardó las llaves; Abel, el primero en jurar; y de tierras lejanas, los gigantes: Malick y Sekou."
