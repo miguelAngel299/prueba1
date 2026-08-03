@@ -51,6 +51,20 @@ A circle of dark hooded figures standing in heavy night rain in a gothic plaza, 
 ### P3b — Míchel traza el mapa, Trivi su sombra · Text-to-Video
 Two hooded figures in a dark room lit by a single warm lamp: one leans over an old map on a wooden table, tracing a route with his finger; the other stands guard in the shadows behind him. Rain against the window, volumetric light, drifting dust, moody noir, high contrast, photorealistic. 9:16.
 
+## P4 — "Nace la Rana / se forja la orden" (ÉPICA, más movimiento)
+VO: "No reuní a un grupo. Forjé una sombra… y me puse a su frente. Grabé el símbolo en mi pecho: la rana lila. Y la ciudad aprendió a susurrar mi nombre. A mi lado, Chema guardó las llaves; Abel, el primero en jurar; y de tierras lejanas, los gigantes: Malick y Sekou."
+
+### P4a — La Rana se alza (reveal) · Image-to-Video (imagen del héroe)
+Epic hero reveal: the frog vigilante stands tall in a dark rain-soaked gothic plaza, long cape billowing in the wind; the lilac frog emblem on his chest suddenly ignites and glows bright; a lightning bolt cracks behind him. Dramatic slow motion, sweeping low-angle camera rising toward him, volumetric light, rain and embers, epic cinematic noir, high contrast, photorealistic. 9:16.
+
+### P4b — La orden se forma · Text-to-Video
+Epic wide shot: dark hooded figures emerge from the shadows and rain, lining up shoulder to shoulder behind the standing vigilante; among them two towering giant warriors and one holding an old iron key; the camera slowly orbits the group, lightning flashes, cold amber light and lilac glow, slow motion, epic cinematic noir, high contrast, photorealistic. 9:16.
+
+### P4c — El sigilo arde / la ciudad susurra su nombre · Text-to-Video
+Epic shot: a glowing lilac frog sigil ignites and blazes over the dark gothic city sky like a signal, storm clouds swirling, dramatic fast push-in toward the glowing emblem, volumetric light, rain, epic cinematic noir, high contrast, photorealistic. 9:16.
+
+Notas P4: subir nivel de movimiento (sweeping camera, slow motion, lightning), 10s. Chema/Abel/Malick/Sekou como figuras encapuchadas/imponentes (o cara real si hay fotos).
+
 ## Ajustes / notas de generación
 - Herramientas: **Gemini (Veo)** + **Kling web** (lo que falle menos por plano).
 - Aspecto 9:16 · duración 5-10s según plano · movimiento lento.
