@@ -48,10 +48,13 @@ Personajes: Míchel (Estratega) y Trivi (Mano Derecha) → siluetas encapuchadas
 ### P3a — El pacto bajo la lluvia · Text-to-Video (épica)
 Epic low-angle shot: a circle of dark hooded figures rise to their feet in heavy night rain in a gothic plaza, fists clenched, heads lifting in defiance in unison as they swear a solemn vow; a lightning bolt cracks overhead, cloaks whipping in the wind, the camera sweeps upward around them, slow motion, volumetric light, epic cinematic noir, high contrast, photorealistic. 9:16.
 
-### P3b — Míchel traza el mapa, Trivi su sombra · Text-to-Video (épica)
-Cinematic shot in a dark war room lit by a single warm lamp: a hooded strategist leans over an old map on a wooden table and drags his finger along a route while glowing lines ignite on the map as he traces it; a loyal figure stands guard in the shadows behind him; rain lashing the window, a lightning flash, drifting dust, slow dramatic push-in, epic noir, high contrast, photorealistic. 9:16.
+### P3b — Míchel traza el mapa, Trivi su sombra · caras reales (2 rostros)
+Roles: Míchel = estratega que traza el mapa (delante); Trivi = vigila detrás (su sombra).
+Método A (Kling multi-referencia, img1=Míchel, img2=Trivi):
+Cinematic noir war room lit by a single warm lamp. The man from image 1 (Míchel) is a hooded strategist leaning over an old map on a wooden table, dragging his finger along a route while glowing lines ignite on the map. The man from image 2 (Trivi) stands guard in the shadows behind him, watchful. Rain lashing the window, a lightning flash, drifting dust, slow dramatic push-in, epic noir, high contrast, photorealistic. Keep both faces exactly as in the reference images. 9:16.
+Método B (más fiable): generar escena → face-swap Míchel (traza) + Trivi (vigila) → image-to-video.
 
-Notas P3: 10s, nivel de movimiento alto (sweeping camera, slow motion, lightning).
+Notas P3: 10s, movimiento alto. Con 2 caras, si se mezclan usar Método B (swap uno a uno); mantener a cada uno en lados/planos distintos.
 
 ## P4 — "Nace la Rana / se forja la orden" (ÉPICA, más movimiento)
 VO: "No reuní a un grupo. Forjé una sombra… y me puse a su frente. Grabé el símbolo en mi pecho: la rana lila. Y la ciudad aprendió a susurrar mi nombre. A mi lado, Chema guardó las llaves; Abel, el primero en jurar; y de tierras lejanas, los gigantes: Malick y Sekou."
