@@ -26,6 +26,18 @@ Extreme close-up of a small flame cupped in hands, sparks rising, then a slow ti
 Slow camera pulls back into the deep darkness of the alley behind the keeper; far in the shadows, two round glinting eyes of a lurking hooded figure catch a faint lilac light, then fade to black. Ominous, cinematic noir, rain, high contrast. 9:16.
 
 ====================================================================
+## P2 — "El hambre / la chispa" (Polvorilla = La Mecha, cara real)
+VO: "Y en lo más hondo de la noche… algo despertó. El hambre. Polvorilla encendió la chispa. Una mecha que ya nadie pudo apagar."
+
+### Keyframe Polvorilla · Image-to-Image (desde su foto, mantener cara)
+Restyle this same person into a cinematic noir character at night in a dark, rain-soaked gothic setting. Keep his face and likeness exactly. A young rebel with a dark hood/jacket, rugged and determined, dramatically lit from below by a small flame he holds. Cold dark-blue shadows with warm amber firelight, rain, drifting embers, high contrast, photorealistic. 9:16.
+
+### P2a — Polvorilla enciende la chispa · Image-to-Video (keyframe anterior)
+The young man slowly strikes a match / raises a small flame; the fire flares and lights his determined face, sparks drifting upward, faint rain, he stares ahead with quiet intensity. Very slow intimate camera, shallow depth of field, cinematic noir, photorealistic. 9:16.
+
+### P2b — La mecha prende / el hambre despierta · Text-to-Video
+Extreme close-up: a spark races along a fuse in the darkness, then an ember swells and flares into a growing flame, embers rising like a swarm, wet reflections, faint rain, slow motion, ominous, cinematic noir, photorealistic. 9:16.
+
 ## Ajustes / notas de generación
 - Herramientas: **Gemini (Veo)** + **Kling web** (lo que falle menos por plano).
 - Aspecto 9:16 · duración 5-10s según plano · movimiento lento.
