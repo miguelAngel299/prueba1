@@ -32,11 +32,14 @@ VO: "Y en lo más hondo de la noche… algo despertó. El hambre. Polvorilla enc
 ### Keyframe Polvorilla · Image-to-Image (desde su foto, mantener cara)
 Restyle this same person into a cinematic noir character at night in a dark, rain-soaked gothic setting. Keep his face and likeness exactly. A young rebel with a dark hood/jacket, rugged and determined, dramatically lit from below by a small flame he holds. Cold dark-blue shadows with warm amber firelight, rain, drifting embers, high contrast, photorealistic. 9:16.
 
-### P2a — Polvorilla enciende la chispa · Image-to-Video (keyframe anterior)
-The young man slowly strikes a match / raises a small flame; the fire flares and lights his determined face, sparks drifting upward, faint rain, he stares ahead with quiet intensity. Very slow intimate camera, shallow depth of field, cinematic noir, photorealistic. 9:16.
+### P2a — Entra a la iglesia · Text-to-Video (silueta, plano amplio)
+A lone hooded figure pushes open the tall, heavy doors of a dark gothic church and steps inside out of the pouring rain; cold light spills from behind him, his silhouette framed in the doorway, wet stone floor reflecting a distant small flame on an altar, dust and haze, slow push-in, cinematic noir, high contrast, photorealistic. 9:16.
 
-### P2b — La mecha prende / el hambre despierta · Text-to-Video
-Extreme close-up: a spark races along a fuse in the darkness, then an ember swells and flares into a growing flame, embers rising like a swarm, wet reflections, faint rain, slow motion, ominous, cinematic noir, photorealistic. 9:16.
+### P2b — Enciende la chispa · Image-to-Video (keyframe de Polvorilla, cara real)
+Inside the dark church, the young man leans toward a small altar flame and lights a match/fuse from it; the fire flares and illuminates his determined face, sparks drifting upward, faint rain outside, very slow intimate camera, shallow depth of field, cinematic noir, photorealistic. 9:16.
+
+### P2c — La mecha prende / el hambre despierta · Text-to-Video
+Extreme close-up: a spark races along a fuse in the darkness, then an ember swells and flares into a growing flame, embers rising like a swarm, wet reflections, slow motion, ominous, cinematic noir, photorealistic. 9:16.
 
 ## P3 — "El pacto / Míchel traza el mapa"
 VO: "Bajo la lluvia hicimos un pacto: no volver a arrodillarnos. Jamás. Míchel trazó el mapa en la oscuridad. Trivi, su sombra, no se apartó de su lado."
