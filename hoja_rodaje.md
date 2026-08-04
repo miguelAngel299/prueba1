@@ -93,6 +93,12 @@ VO: "No reuní a un grupo. Forjé una sombra… y me puse a su frente. Grabé el
 **P4b — La orden se forma** · Text-to-Video
 > Epic wide shot: dark hooded figures emerge from the shadows and rain, lining up behind the standing vigilante; among them one imposing figure and one holding an old iron key; camera slowly orbits, lightning flashes, cold amber light and lilac glow, slow motion, epic cinematic noir. 9:16.
 
+**P4-Abel — El apretón + Abel se descubre** · Image-to-Video (start = frame apretón; cara de Abel)
+Chema (derecha) estrecha la mano a Abel encapuchado (izquierda). Continúa: Abel baja la capucha y revela su cara real.
+Frame final (Nano Banana, frame apretón + foto Abel): "the hooded man on the LEFT lowers his hood revealing this exact face; the man on the RIGHT keeps shaking his hand; keep the left face 100% identical to the reference; dark noir, rain, warm lamp light, photorealistic, 9:16."
+Animar (start→end si hay último frame): "the hooded man on the left slowly lowers his hood revealing his face while they shake hands; faint rain, lamp flicker, subtle slow push-in, cinematic noir. 9:16."
+(2 caras: mantener a Chema girado/en penumbra a la derecha, foco en el reveal de Abel. Si baila, frame final fijo + Dynamic Zoom.)
+
 **P4c — El sigilo arde en el cielo** · Text-to-Video
 > Epic shot: a glowing lilac frog sigil ignites and blazes over the dark gothic city sky like a signal, storm clouds swirling, dramatic fast push-in toward the glowing emblem, volumetric light, rain, epic cinematic noir. 9:16.
 
