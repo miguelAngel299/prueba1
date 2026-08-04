@@ -99,6 +99,10 @@ Frame final (Nano Banana, frame apretón + foto Abel): "the hooded man on the LE
 Animar (start→end si hay último frame): "the hooded man on the left slowly lowers his hood revealing his face while they shake hands; faint rain, lamp flicker, subtle slow push-in, cinematic noir. 9:16."
 (2 caras: mantener a Chema girado/en penumbra a la derecha, foco en el reveal de Abel. Si baila, frame final fijo + Dynamic Zoom.)
 
+**P4-Malick — Malick vigila desde la torre** · Image-to-Video (Text-to-Video; keyframe con su cara si hay foto)
+> Epic low-angle wide shot: an imposing, powerfully built hooded ally stands atop the high stone church tower, overlooking the dark rainy gothic city like a silent sentinel; his coat moves in the wind, cold amber light and a faint lilac glow, storm clouds and a lightning flash behind him, slow motion, epic cinematic noir, high contrast, photorealistic. 9:16.
+(Con cara: plano algo más cerrado en la torre, capucha bajada, "keep his face identical to the reference".)
+
 **P4c — El sigilo arde en el cielo** · Text-to-Video
 > Epic shot: a glowing lilac frog sigil ignites and blazes over the dark gothic city sky like a signal, storm clouds swirling, dramatic fast push-in toward the glowing emblem, volumetric light, rain, epic cinematic noir. 9:16.
 
