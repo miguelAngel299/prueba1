@@ -40,7 +40,7 @@ Leyenda: [VO] = voz en off · (Kling EN) = prompt en inglés para generar el cli
 ### Los soldados
 - **Polvorilla-69** → *La Mecha*: encendió la chispa del hambre.
 - **Abel-22** → *El Primero en Jurar*: el más leal.
-- **Malick-27** → *El Gigante de tierras lejanas*.
+- **Malick-27** → *Aliado imponente de otras tierras (el músculo)*.
 - **Gaspi-12** → *El Incansable*.
 - **Corba-66** → *El que golpea desde la sombra*.
 - **Chicharrito-23** → *El pequeño que muerde más fuerte*.
@@ -72,7 +72,7 @@ Leyenda: [VO] = voz en off · (Kling EN) = prompt en inglés para generar el cli
 (Kling EN) Two hooded silhouettes bent over an old map lit by a single cold lamp in a dark room, heavy rain against a window, a second figure standing guard behind, noir Gotham atmosphere, faint purple hue, high contrast, ominous. 7s.
 
 ### P4 (0:17–0:24) — NACE LA RANA
-[VO] "No reuní a un grupo. Forjé una sombra… y me puse a su frente. Grabé el símbolo en mi pecho: la rana lila. Y la ciudad aprendió a susurrar mi nombre. A mi lado, Chema guardó las llaves; Abel, el primero en jurar; y de tierras lejanas, un gigante: Malick."
+[VO] "No reuní a un grupo. Forjé una sombra… y me puse a su frente. Grabé el símbolo en mi pecho: la rana lila. Y la ciudad aprendió a susurrar mi nombre. A mi lado, Chema guardó las llaves; Abel, el primero en jurar; y de otras tierras, imponente y leal, Malick."
 (Kling EN) A lone vigilante standing at the front of a circle of dark hooded figures in a shadowy hall lit by amber light; he wears a black armored cape and a cowl with two large round frog-eye lenses, a glowing purple frog sigil on his chest; tall imposing allies behind him, one holding an old iron key, rain and haze, cinematic noir, The Batman aesthetic, high contrast. 7s.
 
 ====================================================================

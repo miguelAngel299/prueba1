@@ -25,7 +25,7 @@ Cúpula: **Kili** (Patriarca, guarda la llama) ✅ · **Míchel** (Estratega) fo
 Muro: **Manzano** (portero → Guardián de la Última Puerta) · **Isma** (El Muro) · **Juanan** (La Garra) · **Sekou** (centinela de tierras lejanas).
 Mente: **Diego** (El Titiritero) · **Izan** (Mente y Coraje).
 Filos: **Pablo** (El Filo/daga) · **Ramón** (El Rayo por la izquierda).
-Soldados: **Polvorilla** (La Mecha) foto ✅ · **Abel** (Primero en Jurar) · **Malick** (Gigante) · **Gaspi** (Incansable) · **Corba** (golpea desde la sombra) · **Chicharrito** (muerde) · **Juanillo** (sangre joven) · **Legaño** (nunca cierra los ojos).
+Soldados: **Polvorilla** (La Mecha) foto ✅ · **Abel** (Primero en Jurar) · **Malick** (aliado imponente de otras tierras) · **Gaspi** (Incansable) · **Corba** (golpea desde la sombra) · **Chicharrito** (muerde) · **Juanillo** (sangre joven) · **Legaño** (nunca cierra los ojos).
 
 Villanos (rivales → arquetipo, diseñar ORIGINAL e IP-safe, NO nombrar la marca):
 - **Huargos → el Lobo** (arquetipo Joker: caos/bocazas). Sale P11 y P14. DISEÑAR.
@@ -85,13 +85,13 @@ VO: "Bajo la lluvia hicimos un pacto: no volver a arrodillarnos. Jamás. Míchel
 (Intercalar Míchel/Trivi en DaVinci. Si Veo cambia la cara → truco still→movimiento (Dynamic Zoom DaVinci).)
 
 ### P4 — "Nace la Rana / se forja la orden" (ÉPICA)
-VO: "No reuní a un grupo. Forjé una sombra… y me puse a su frente. Grabé el símbolo en mi pecho: la rana lila. Y la ciudad aprendió a susurrar mi nombre. A mi lado, Chema guardó las llaves; Abel, el primero en jurar; y de tierras lejanas, un gigante: Malick."
+VO: "No reuní a un grupo. Forjé una sombra… y me puse a su frente. Grabé el símbolo en mi pecho: la rana lila. Y la ciudad aprendió a susurrar mi nombre. A mi lado, Chema guardó las llaves; Abel, el primero en jurar; y de otras tierras, imponente y leal, Malick."
 
 **P4a — La Rana se alza (reveal)** · Image-to-Video (imagen de La Rana)
 > Epic hero reveal: the frog vigilante stands tall in a dark rain-soaked gothic plaza, long cape billowing; the lilac frog emblem on his chest ignites and glows bright; a lightning bolt cracks behind him. Dramatic slow motion, sweeping low-angle camera rising toward him, volumetric light, rain and embers, epic cinematic noir, high contrast. 9:16.
 
 **P4b — La orden se forma** · Text-to-Video
-> Epic wide shot: dark hooded figures emerge from the shadows and rain, lining up behind the standing vigilante; among them one towering giant warrior and one holding an old iron key; camera slowly orbits, lightning flashes, cold amber light and lilac glow, slow motion, epic cinematic noir. 9:16.
+> Epic wide shot: dark hooded figures emerge from the shadows and rain, lining up behind the standing vigilante; among them one imposing figure and one holding an old iron key; camera slowly orbits, lightning flashes, cold amber light and lilac glow, slow motion, epic cinematic noir. 9:16.
 
 **P4c — El sigilo arde en el cielo** · Text-to-Video
 > Epic shot: a glowing lilac frog sigil ignites and blazes over the dark gothic city sky like a signal, storm clouds swirling, dramatic fast push-in toward the glowing emblem, volumetric light, rain, epic cinematic noir. 9:16.
@@ -134,13 +134,13 @@ VO: "Cada uno era un arma. Pablo, el filo en la penumbra. Ramón, el rayo por la
 (Montaje rápido; una cara por plano si hay fotos, si no figuras noir. Cortes cortos ~3-4s.)
 
 **P7a — El filo y el rayo (Pablo, Ramón)** · Text-to-Video / keyframes
-> Heroic noir flashes in cold amber light: a shadow warrior draws a gleaming blade in the dark; another dashes past like a bolt of lightning trailing sparks; rain, slow motion, epic high contrast. 9:16.
+> Heroic noir flashes in cold amber light: a shadow figure draws a gleaming blade in the dark; another dashes past like a bolt of lightning trailing sparks; rain, slow motion, epic high contrast. 9:16.
 
 **P7b — El titiritero y el coraje (Diego, Izan)** · Text-to-Video / keyframes
 > A hooded figure pulls glowing strings like a puppeteer, threads of light in the dark; another stands firm with burning determination; rain, volumetric light, slow motion, epic noir. 9:16.
 
 **P7c — El muro (Isma, Juanan)** · Text-to-Video / keyframes
-> Two towering armored guardians stand immovable in the pouring rain, arms braced, unbreakable wall, low heroic angle, lightning behind, slow motion, epic cinematic noir. 9:16.
+> Two immovable guardians stand firm in the pouring rain, arms braced, an unbreakable wall, low heroic angle, lightning behind, slow motion, epic cinematic noir. 9:16.
 
 ### P8 — "El abismo / La Bóveda" (Mr. Frío; Manzano cierra la última puerta)
 VO: "La Bóveda nos arrastró al abismo. Al borde del vacío, no nos rompimos. Manzano cerró la última puerta. Éramos hierro."

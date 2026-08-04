@@ -21,7 +21,7 @@ Y en lo más hondo de la noche… algo despertó. El hambre. Polvorilla encendi�
 Bajo la lluvia hicimos un pacto: no volver a arrodillarnos. Jamás. Míchel trazó el mapa en la oscuridad. Trivi, su sombra, no se apartó de su lado.
 
 **P4 (0:17–0:24)**
-No reuní a un grupo. Forjé una sombra… y me puse a su frente. Grabé el símbolo en mi pecho: la rana lila. Y la ciudad aprendió a susurrar mi nombre. A mi lado, Chema guardó las llaves; Abel, el primero en jurar; y de tierras lejanas, un gigante: Malick.
+No reuní a un grupo. Forjé una sombra… y me puse a su frente. Grabé el símbolo en mi pecho: la rana lila. Y la ciudad aprendió a susurrar mi nombre. A mi lado, Chema guardó las llaves; Abel, el primero en jurar; y de otras tierras, imponente y leal, Malick.
 
 **P5 (0:24–0:29)**
 La señal ardió en el cielo de la penumbra. Mi señal. Y de las sombras, respondieron. Trescientos juraron lealtad a la rana lila. Almas sin nada que perder, dispuestas a darlo todo. Gaspi, incansable. Corba, que golpea desde la sombra.
@@ -66,7 +66,7 @@ Y en lo más hondo de la noche… algo despertó. El hambre. Polvorilla encendi�
 
 Bajo la lluvia hicimos un pacto: no volver a arrodillarnos. Jamás. Míchel trazó el mapa en la oscuridad. Trivi, su sombra, no se apartó de su lado.
 
-No reuní a un grupo. Forjé una sombra… y me puse a su frente. Grabé el símbolo en mi pecho: la rana lila. Y la ciudad aprendió a susurrar mi nombre. A mi lado, Chema guardó las llaves; Abel, el primero en jurar; y de tierras lejanas, un gigante: Malick.
+No reuní a un grupo. Forjé una sombra… y me puse a su frente. Grabé el símbolo en mi pecho: la rana lila. Y la ciudad aprendió a susurrar mi nombre. A mi lado, Chema guardó las llaves; Abel, el primero en jurar; y de otras tierras, imponente y leal, Malick.
 
 La señal ardió en el cielo de la penumbra. Mi señal. Y de las sombras, respondieron. Trescientos juraron lealtad a la rana lila. Almas sin nada que perder, dispuestas a darlo todo. Gaspi, incansable. Corba, que golpea desde la sombra.
 
