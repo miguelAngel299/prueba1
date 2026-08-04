@@ -85,13 +85,13 @@ VO: "Bajo la lluvia hicimos un pacto: no volver a arrodillarnos. Jamás. Míchel
 (Intercalar Míchel/Trivi en DaVinci. Si Veo cambia la cara → truco still→movimiento (Dynamic Zoom DaVinci).)
 
 ### P4 — "Nace la Rana / se forja la orden" (ÉPICA)
-VO: "No reuní a un grupo. Forjé una sombra… y me puse a su frente. Grabé el símbolo en mi pecho: la rana lila. Y la ciudad aprendió a susurrar mi nombre. A mi lado, Chema guardó las llaves; Abel, el primero en jurar; y de tierras lejanas, los gigantes: Malick y Sekou."
+VO: "No reuní a un grupo. Forjé una sombra… y me puse a su frente. Grabé el símbolo en mi pecho: la rana lila. Y la ciudad aprendió a susurrar mi nombre. A mi lado, Chema guardó las llaves; Abel, el primero en jurar; y de tierras lejanas, un gigante: Malick."
 
 **P4a — La Rana se alza (reveal)** · Image-to-Video (imagen de La Rana)
 > Epic hero reveal: the frog vigilante stands tall in a dark rain-soaked gothic plaza, long cape billowing; the lilac frog emblem on his chest ignites and glows bright; a lightning bolt cracks behind him. Dramatic slow motion, sweeping low-angle camera rising toward him, volumetric light, rain and embers, epic cinematic noir, high contrast. 9:16.
 
 **P4b — La orden se forma** · Text-to-Video
-> Epic wide shot: dark hooded figures emerge from the shadows and rain, lining up behind the standing vigilante; among them two towering giant warriors and one holding an old iron key; camera slowly orbits, lightning flashes, cold amber light and lilac glow, slow motion, epic cinematic noir. 9:16.
+> Epic wide shot: dark hooded figures emerge from the shadows and rain, lining up behind the standing vigilante; among them one towering giant warrior and one holding an old iron key; camera slowly orbits, lightning flashes, cold amber light and lilac glow, slow motion, epic cinematic noir. 9:16.
 
 **P4c — El sigilo arde en el cielo** · Text-to-Video
 > Epic shot: a glowing lilac frog sigil ignites and blazes over the dark gothic city sky like a signal, storm clouds swirling, dramatic fast push-in toward the glowing emblem, volumetric light, rain, epic cinematic noir. 9:16.
@@ -100,13 +100,16 @@ VO: "No reuní a un grupo. Forjé una sombra… y me puse a su frente. Grabé el
 ## ACTO 2 — LA SEÑAL Y LA CACERÍA
 ====================================================================
 
-### P5 — "La señal / los 300 acuden" (Gaspi, Corba)
-VO: "La señal ardió en el cielo de la penumbra. Mi señal. Trescientos la vieron. Trescientos vinieron. Los que no tenían nada que perder. Gaspi, incansable. Corba, que golpea desde la sombra."
+### P5 — "La señal / el juramento" (Gaspi, Corba)
+VO: "La señal ardió en el cielo de la penumbra. Mi señal. Y de las sombras, respondieron. Trescientos juraron lealtad a la rana lila. Almas sin nada que perder, dispuestas a darlo todo. Gaspi, incansable. Corba, que golpea desde la sombra."
 
-**P5a — La señal llama, los 300 acuden** · Text-to-Video
-> Epic wide shot: the glowing lilac frog-signal blazes over a dark rainy gothic city; from countless alleys, hundreds of hooded figures turn and march toward it, torches and cold amber light, storm sky, slow sweeping crane shot, epic cinematic noir, high contrast. 9:16.
+**P5a — La señal arde y la ciudad responde** · Text-to-Video
+> Epic wide shot: the glowing lilac frog-signal blazes over a dark rainy gothic city; from every alley shadowy hooded figures step out and turn toward the light, drawn to it; slow sweeping crane, storm sky, cold amber and lilac glow, epic cinematic noir, high contrast. 9:16.
 
-**P5b — Gaspi y Corba se suman** · Text-to-Video (o keyframes si hay fotos)
+**P5b — El juramento (300 juran lealtad)** · Text-to-Video
+> Epic shot: a large crowd of hooded figures kneel in the rain before the glowing frog-signal, then rise together as one, fists to their chests, swearing loyalty; low heroic angle, torches and lilac light, slow motion, epic cinematic noir, high contrast. 9:16.
+
+**P5c — Gaspi y Corba se suman** · Text-to-Video (o keyframes si hay fotos)
 > Two determined hooded fighters step forward out of the shadows into amber light, rain dripping, fists ready; quick dramatic push-in on each, epic cinematic noir, high contrast, photorealistic. 9:16.
 (Si tienes fotos de Gaspi/Corba → un plano por cara.)
 

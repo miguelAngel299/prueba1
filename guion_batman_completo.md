@@ -72,7 +72,7 @@ Leyenda: [VO] = voz en off · (Kling EN) = prompt en inglés para generar el cli
 (Kling EN) Two hooded silhouettes bent over an old map lit by a single cold lamp in a dark room, heavy rain against a window, a second figure standing guard behind, noir Gotham atmosphere, faint purple hue, high contrast, ominous. 7s.
 
 ### P4 (0:17–0:24) — NACE LA RANA
-[VO] "No reuní a un grupo. Forjé una sombra… y me puse a su frente. Grabé el símbolo en mi pecho: la rana lila. Y la ciudad aprendió a susurrar mi nombre. A mi lado, Chema guardó las llaves; Abel, el primero en jurar; y de tierras lejanas, los gigantes: Malick y Sekou."
+[VO] "No reuní a un grupo. Forjé una sombra… y me puse a su frente. Grabé el símbolo en mi pecho: la rana lila. Y la ciudad aprendió a susurrar mi nombre. A mi lado, Chema guardó las llaves; Abel, el primero en jurar; y de tierras lejanas, un gigante: Malick."
 (Kling EN) A lone vigilante standing at the front of a circle of dark hooded figures in a shadowy hall lit by amber light; he wears a black armored cape and a cowl with two large round frog-eye lenses, a glowing purple frog sigil on his chest; tall imposing allies behind him, one holding an old iron key, rain and haze, cinematic noir, The Batman aesthetic, high contrast. 7s.
 
 ====================================================================
@@ -80,7 +80,7 @@ Leyenda: [VO] = voz en off · (Kling EN) = prompt en inglés para generar el cli
 ====================================================================
 
 ### P5 (0:24–0:29) — LA RANA-SEÑAL
-[VO] "La señal ardió en el cielo de la penumbra. Mi señal. Trescientos la vieron. Trescientos vinieron. Los que no tenían nada que perder. Gaspi, incansable. Corba, que golpea desde la sombra."
+[VO] "La señal ardió en el cielo de la penumbra. Mi señal. Y de las sombras, respondieron. Trescientos juraron lealtad a la rana lila. Almas sin nada que perder, dispuestas a darlo todo. Gaspi, incansable. Corba, que golpea desde la sombra."
 (Kling EN) A powerful beam of light projecting a purple frog symbol (a frog-signal) into the dark rainy night sky over a shadowed city, distant hooded figures turning and walking toward it from alleys, cold purple and amber glow, noir cinematic, atmospheric. 5s.
 
 ### P6 (0:29–0:36) — LA CACERÍA
