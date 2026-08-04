@@ -1,15 +1,15 @@
 # 🐸🦇 HOJA DE RODAJE COMPLETA — "LA RANA" (Barry's de Múnchen · noir / The Batman)
 Corto largo cinematográfico (~4-6 min) · 9:16 · estética noir de Gotham (negro + lluvia + ámbar + lila de acento) · voz en off grave (jellypod/fish audio).
-Herramientas: **Gemini (Veo)** + **Kling web** (lo que falle menos por plano). Duraciones 5-10s. Montaje en **CapCut**.
+Herramientas: **Gemini (Veo)** + **Kling web** (lo que falle menos por plano). Duraciones 5-10s. Montaje en **DaVinci Resolve**.
 
 ====================================================================
 ## REGLAS DE ORO (caras y consistencia)
 ====================================================================
 1. **ChatGPT no genera caras reales** → usar Gemini (Nano Banana) para keyframes con foto, o face-swap.
 2. **Fijar la cara en una IMAGEN primero** (keyframe) y luego animar. No dejar que el vídeo "invente" la cara.
-3. **Una cara real por plano.** Varias personas → un plano por cada una e intercalar en CapCut.
+3. **Una cara real por plano.** Varias personas → un plano por cada una e intercalar en DaVinci.
 4. **Menos movimiento = más parecido.** Cara grande en cuadro + luz en la cara + clip 5s.
-5. **Truco Ken Burns** (plano crítico de cara): keyframe fijo bueno + zoom/paneo lento en CapCut + lluvia/partículas = parecido perfecto sin deriva de IA.
+5. **Truco still→movimiento** (plano crítico de cara): keyframe fijo bueno + **Dynamic Zoom** en DaVinci (Inspector) + overlay de lluvia (Composite Mode Screen/Add) + parpadeo de luz en la página Color = parecido perfecto sin deriva de IA.
 6. **Veo mete su propio audio** → silenciar en montaje; encima va el VO.
 7. Marca de agua (Kling/Veo) → se recorta en el montaje 9:16.
 8. Misma seed / referencia por acto para consistencia.
@@ -82,7 +82,7 @@ VO: "Bajo la lluvia hicimos un pacto: no volver a arrodillarnos. Jamás. Míchel
 
 **P3b-2 — Trivi vigila** · Image-to-Video (keyframe Trivi, cara) — plano individual
 > Close cinematic shot in the same dark war room: a loyal guardian stands in the shadows, arms crossed, watchful, lamp light flickering on his face, rain and a lightning flash behind him, subtle motion, slow push-in, epic noir, photorealistic. 9:16.
-(Intercalar Míchel/Trivi en CapCut. Si Veo cambia la cara → truco Ken Burns.)
+(Intercalar Míchel/Trivi en DaVinci. Si Veo cambia la cara → truco still→movimiento (Dynamic Zoom DaVinci).)
 
 ### P4 — "Nace la Rana / se forja la orden" (ÉPICA)
 VO: "No reuní a un grupo. Forjé una sombra… y me puse a su frente. Grabé el símbolo en mi pecho: la rana lila. Y la ciudad aprendió a susurrar mi nombre. A mi lado, Chema guardó las llaves; Abel, el primero en jurar; y de tierras lejanas, los gigantes: Malick y Sekou."
@@ -204,7 +204,7 @@ VO: "Esto no es un final. Es una advertencia. La Rana no muere: espera, observa 
 
 **P15b — Cierre a negro + título** · Text-to-Video / CapCut
 > The lilac frog-signal blazes then slowly fades to black; bold text reveal "RESURGIREMOS" glows in lilac, rain sound, cinematic. 9:16.
-(El texto "RESURGIREMOS" mejor ponerlo en CapCut para que salga nítido.)
+(El texto "RESURGIREMOS" mejor ponerlo en DaVinci para que salga nítido.)
 
 ====================================================================
 ## PENDIENTES DE DISEÑO
